@@ -2,5 +2,11 @@ site_name: Litmos Reporting Engine Documentation
 site_url: ""
 theme:
   name: material
+  features: 
+    - navigation.tabs
 use_directory_urls: false
-plugins: [offline]
+nav:
+  - Home: index.md
+  - About: tech-details.md
+
+plugins: [search, offline]
