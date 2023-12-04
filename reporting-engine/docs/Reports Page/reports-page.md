@@ -4,3 +4,7 @@ When you click the "Reports" button on the sidebar, you'll get dropped into the 
 
 ![Screenshot of Reports Dashboard](cropped-glance.png)
 
+
+## Interactive Graphs  
+
+Part of the at-a-glance information are two interactive graphs. They show the 5 most active courses, and the 5 most active people in the organization. 
