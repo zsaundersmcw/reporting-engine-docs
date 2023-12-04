@@ -5,6 +5,7 @@ theme:
   features: 
     - navigation.tabs
     - navigation.path
+  favicon: img/favicon.ico
 use_directory_urls: false
 nav:
   - Home: index.md
