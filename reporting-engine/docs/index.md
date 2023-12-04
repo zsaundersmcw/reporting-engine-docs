@@ -1,9 +1,6 @@
 # Litmos Reporting Engine 
 
-This is intended to collect, store, and distribute information about Litmos' Reporting Engine. This documentation is written in [Markdown][1] and turned into a website using [mkdocs][2].
-
-[1]: https://www.markdownguide.org/
-[2]: https://www.mkdocs.org/
+This is intended to collect, store, and distribute information about Litmos' Reporting Engine.
 
 ## Navigating this site
 
