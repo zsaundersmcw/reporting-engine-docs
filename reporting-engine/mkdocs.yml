@@ -1,5 +1,6 @@
 site_name: Litmos Reporting Engine Documentation
 site_url: ""
-theme: readthedocs
+theme:
+  name: material
 use_directory_urls: false
-plugins: []
+plugins: [offline]
