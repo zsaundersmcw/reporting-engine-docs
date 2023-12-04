@@ -4,10 +4,14 @@ theme:
   name: material
   features: 
     - navigation.tabs
+    - navigation.path
 use_directory_urls: false
 nav:
   - Home: index.md
-  - Reports Page: reports-page.md
+  - Reports Page: 
+    - Main Reports Page: Reports Page/reports-page.md
+  - Reporting Engine:
+    - Reporting Engine: Reporting Engine/reporting-engine.md
   - About: tech-details.md
 
 plugins: [search, offline]
