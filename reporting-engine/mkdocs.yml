@@ -6,6 +6,7 @@ theme:
     - navigation.tabs
     - navigation.path
   favicon: img/favicon.ico
+  logo: img/icon.svg
 use_directory_urls: false
 nav:
   - Home: index.md
